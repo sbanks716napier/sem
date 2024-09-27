@@ -1,2 +1,2 @@
-This is the README file.
-2nd Line of Text.
+#Software Engineering Methods
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/sbanks716napier/sem/.github/workflows/main.yml?branch=master)
